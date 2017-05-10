@@ -1,1 +1,6 @@
 D:\lab\LearnGIT\LearnGIT\bin\Debug\LearnGIT.exe.config
+D:\lab\LearnGIT\LearnGIT\bin\Debug\LearnGIT.exe
+D:\lab\LearnGIT\LearnGIT\bin\Debug\LearnGIT.pdb
+D:\lab\LearnGIT\LearnGIT\obj\Debug\LearnGIT.csprojResolveAssemblyReference.cache
+D:\lab\LearnGIT\LearnGIT\obj\Debug\LearnGIT.exe
+D:\lab\LearnGIT\LearnGIT\obj\Debug\LearnGIT.pdb

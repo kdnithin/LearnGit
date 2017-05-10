@@ -10,6 +10,8 @@ namespace LearnGIT
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("say hello..");
+            Console.Read();
         }
     }
 }
