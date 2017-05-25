@@ -11,7 +11,9 @@ namespace LearnGIT
         static void Main(string[] args)
         {
             Console.WriteLine("say hello..");
+            Console.WriteLine("TA001");
             Console.Read();
+            
         }
     }
 }
