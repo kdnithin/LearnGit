@@ -8,5 +8,9 @@ namespace LearnGIT
 {
    public class CherryPickTest1
     {
+        public CherryPickTest1()
+        {
+
+        }
     }
 }
