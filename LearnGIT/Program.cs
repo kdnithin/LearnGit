@@ -12,6 +12,7 @@ namespace LearnGIT
         {
             Console.WriteLine("say hello..");
             Console.WriteLine("TA001");
+            Console.WriteLine("TA002#Neo made conflicting changes");
             Console.Read();
             
         }
